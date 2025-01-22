@@ -1,0 +1,36 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#C0C0CC; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_a8bef60 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
+.textstyle2 { text-align:left; }
+#container_29ee7549 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:102px; background-color:#FFFFFF;  }
+#container_29ee7549_padding { margin: 10px; display: block;  }
+#container_23dd7d16 { vertical-align: top; position:relative; display: inline-block; width:35%; min-height:60px; background:none;  }
+#container_23dd7d16_padding { margin: 10px; display: block;  }
+#img_4aba8bf3 { vertical-align: bottom; position:relative; display: inline-block; width:101%; background:none; height:auto;  }
+#container_61f69dfd { vertical-align: top; position:relative; display: inline-block; width:65%; min-height:85px; background:none;  }
+#container_61f69dfd_padding { margin: 10px; display: block;  }
+#container_7b56f8c2 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:356px; background-color:#FFFFFF; background-image: url(rc_images/2015_05_04___kimk_harz_wasserrad__rst_kl_1200x900.jpg); background-position:center left; background-size:cover;  }
+#container_7b56f8c2_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+.textstyle4 { font-size:26pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+#container_438337b7 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:184px; background-color:#F3F3F5;  }
+#container_438337b7_padding { margin: 10px; display: block;  }
+#container_7912be8c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:139px; background:none;  }
+#container_7912be8c_padding { margin: 10px; display: block;  }
+#container_780a4201 { vertical-align: top; border-radius: 15px; position:relative; display: inline-block; margin:10px; width:82%; min-height:139px; background-color:#FFFFFF;  }
+#container_780a4201_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:16pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#374459;  }
+.textstyle6 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#374459;  }
+#container_433edc8a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:56px; background-color:#F3F3F5;  }
+#container_433edc8a_padding { margin: 10px; display: block;  }
+#container_3479b30e { vertical-align: top; position:relative; display: inline-block; width:29%; min-height:40px; max-width:800px; background:none;  }
+#container_3479b30e_padding { margin: 10px; display: block;  }
+.textstyle7 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#4F4F4F; line-height: 1.5;  }
+@media only screen and (max-width: 600px)
+{
+		#container_780a4201 { width:100%;  }
+}
